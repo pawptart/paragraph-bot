@@ -33,5 +33,3 @@ Here, you'll define your bot's user account, password, and Reddit script details
 # Usage
 
 After configuration, simply run `python bot.py` and watch your bot work!
-
-You can edit any of the parameters in any of the configuration files and the bot will hot reload and use the new config on the next available post time.
