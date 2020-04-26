@@ -17,7 +17,7 @@ Here, you'll define your bot's user account, password, and Reddit script details
   "bot_client_id": "bot_client_id",
   "bot_client_secret": "bot_client_secret",
   "bot_user_agent": "bot_user_agent",
-  "subreddit": "gravelcyclingsandbox",
+  "subreddit": "subreddit",
   "sentence_threshold": 15,
   "minimum_sentence_length": 5,
   "response_header": "^Hi! ^I'm ^a ^bot ^and ^it ^looks ^like ^you've ^posted ^a ^wall ^of ^text. ^Here's ^my ^attempt ^to ^make ^it ^more ^readable:"
